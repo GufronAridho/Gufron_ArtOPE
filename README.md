@@ -1,6 +1,6 @@
 # The Art of Prompt Engineering
 
-## Author : Sina Nazeri (PhD.)
+### Author : Sina Nazeri (PhD.)
 
 ## Description
 Mentee assigment from IBM Advance AI @ Infinite Learning Course completion The Art of Prompt Engineering from CognativeClass.ai
