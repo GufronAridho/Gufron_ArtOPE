@@ -1,4 +1,8 @@
 # The Art of Prompt Engineering
 
+## Author : Sina Nazeri (PhD.)
+
 ## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a B
+Mentee assigment from IBM Advance AI @ Infinite Learning Course completion The Art of Prompt Engineering from CognativeClass.ai
+
+
